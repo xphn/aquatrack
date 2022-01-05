@@ -1,0 +1,1 @@
+C:\Users\PXie\Documents\Python Projects\wunderground\app_test>"C:\Users\PXie\Documents\Python Projects\wunderground\.venv_exe\Scripts\pyinstaller.exe" --onefile --icon=LOGO.ico AquaTrack.py --collect-all tzdata
